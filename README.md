@@ -1,6 +1,6 @@
 # mathemodel - AI Mathematical Modeling Assistant
 
-一个的智能数学建模助手，提供端到端的数学建模解决方案。
+一个的智能数学建模 agent 助手，提供美赛端到端的数学建模解决方案。
 
 [demo page](https://mathemodel.com)
 
@@ -17,7 +17,7 @@
 - 📎 **PDF文件上传**: 拖拽或点击上传PDF文档，10MB以内
 - ⚡ **实时进度显示**: 动态展示AI处理进度和当前步骤
 - 📊 **Markdown渲染**: 完整支持数学公式(LaTeX)和代码高亮
-- 💾 **一键下载**: 生成的论文支持Markdown和Latex格式下载
+- 💾 **一键下载**: 生成的论文支持Markdown和Latex格式下载，格式原生支持美赛
 
 ## 🚀 技术特性
 
